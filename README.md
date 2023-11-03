@@ -18,5 +18,4 @@ Repo depicts various usage of Spotify-API
 
 
 
-
-I haven't added the .env file here...so make sure if you are cloning the repo...just create a .env file containing the credentials as displayed in above image.. in the same directory
+### **_I haven't added the .env file here...so make sure if you are cloning the repo...just create a .env file containing the credentials as displayed in the above image.. in the same directory_**
