@@ -15,3 +15,8 @@ Repo depicts various usage of Spotify-API
 6. **Never share this credentials with anyone**
 7. Now you need to get the access_token from the API..
 8. After this you need to send this access_token each time you make request to API
+
+
+
+
+I haven't added the .env file here...so make sure if you are cloning the repo...just create a .env file containing the credentials as displayed in above image.. in the same directory
