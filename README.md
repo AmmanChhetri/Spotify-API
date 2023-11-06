@@ -1,5 +1,8 @@
 # Spotify-API
-Repo depicts various usage of Spotify-API 
+Repo depicts various uses of Spotify-API 
+
+# NOTE - 
+These are just a few examples you can do a lot more stuff using SPOTIFY-API ...refer to the official documentation from here - https://developer.spotify.com/documentation/web-api
 
 
 
